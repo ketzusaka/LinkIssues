@@ -1,0 +1,4 @@
+github "Appboy/Appboy-iOS-SDK" "3.0.2"
+github "Flipboard/FLAnimatedImage" "1.0.14"
+github "rs/SDWebImage" "4.3.3"
+
